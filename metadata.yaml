@@ -19,6 +19,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Guerra_Junqueiro
     - http://en.wikipedia.org/wiki/Guerra_Junqueiro
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16429#Contos-para-a-inf-ncia--13-Escolhidos-dos-melhores-auctores-por-Guerra-Junqueiro
 gutenberg_bookshelf:
 - PT Infantil e Juvenil
 - PT Contos
