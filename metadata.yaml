@@ -1,0 +1,45 @@
+_repo: Contos-para-a-inf-ncia--13-Escolhidos-dos-melhores-auctores-por-Guerra-Junqueiro_16429
+_version: 0.1.0
+alternative_title: "Contos para a infância\r\nEscolhidos dos melhores autores por\
+  \ Guerra Junqueiro"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Junqueiro, Abílio Manuel Guerra
+    aliases:
+    - Junqueiro, Guerra
+    - Junqueiro, Abilio Manuel Guerra
+    birthdate: 1850
+    deathdate: 1923
+    gutenberg_agent_id: '6701'
+    url: http://www.gutenberg.org/2009/agents/6701
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Guerra_Junqueiro
+    - http://en.wikipedia.org/wiki/Guerra_Junqueiro
+description: ''
+gutenberg_bookshelf:
+- PT Infantil e Juvenil
+- PT Contos
+gutenberg_issued: '2005-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16429'
+language: pt
+language_note: "This ebook uses 19th century spelling.\r\nFor a spelling modernization\
+  \ following Standard Portuguese from the beginning of the 21st century see a link\
+  \ in the html file."
+production_note: "Produced by Biblioteca Nacional Digital (http://bnd.bn.pt),\r\n\
+  Rita Farinha and the Online Distributed Proofreading Team\r\nat http://www.pgdp.net"
+publication_note: "Lisboa:\r\nTypographia Universal de Thomaz Quintino Antunes, Impressor\
+  \ da Casa Real\r\nRua dos Calafates, 110\r\n1877"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese language -- Readers'
+- !lcc 'PC'
+- !lcsh 'Children''s literature, Portuguese'
+title: "Contos para a infância\r\nEscolhidos dos melhores auctores por Guerra Junqueiro"
+url: http://www.gutenberg.org/ebooks/16429
